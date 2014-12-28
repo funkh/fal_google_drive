@@ -1,0 +1,15 @@
+{
+	"name": "funkh/fal_google_drive",
+	"description": "",
+	"license": "GPL-3.0+",
+	"type": "typo3-cms-extension",
+	"authors": [
+		{
+			"name": "Helge Funk",
+			"email": "helge.funk@gmail.com"
+		}
+	],
+	"require": {
+		"google/apiclient": "~1.1"
+	}
+}
